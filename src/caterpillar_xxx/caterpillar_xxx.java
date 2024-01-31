@@ -11,6 +11,8 @@ public class caterpillar_xxx {
 	
 	public static void main(String[] args) {
 		
+		caterpillar_xxx cd = new caterpillar_xxx (7,9);
+		
 	}
 	
 }
